@@ -13,7 +13,6 @@
 - [HCL](#hcl)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Mustache](#mustache)
 - [Others](#others)
 - [PHP](#php)
@@ -23,6 +22,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Solidity](#solidity)
+- [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 
 ## C 
@@ -77,10 +77,6 @@
 
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
 
-## Jupyter Notebook 
-
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-
 ## Mustache 
 
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
@@ -99,6 +95,7 @@
 
 ## Python 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [dandygithub/kodi](https://github.com/dandygithub/kodi) - KODI Addons Project
@@ -133,6 +130,10 @@
 ## Solidity 
 
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+
+## TypeScript 
+
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 
 ## Vim Script 
 
