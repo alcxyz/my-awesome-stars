@@ -9,6 +9,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Go](#go)
 - [HCL](#hcl)
 - [JavaScript](#javascript)
@@ -27,6 +28,7 @@
 
 ## C 
 
+- [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [Yubico/libfido2](https://github.com/Yubico/libfido2) - Provides library functionality for FIDO2, including communication with a device over USB or NFC.
@@ -49,8 +51,12 @@
 ## Dockerfile 
 
 - [sprintcube/docker-compose-lamp](https://github.com/sprintcube/docker-compose-lamp) - A basic LAMP stack environment built using Docker Compose.
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+
+## Elixir 
+
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 
 ## Go 
 
@@ -114,6 +120,7 @@
 
 ## Rust 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 
 ## Shell 
