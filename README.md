@@ -144,6 +144,7 @@
 
 ## TypeScript 
 
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 
 ## Vim Script 
