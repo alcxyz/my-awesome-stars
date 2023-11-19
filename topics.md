@@ -223,6 +223,7 @@
 
 ## others 
 
+- [DummyKitty/Cyber-Security-chatGPT-prompt](https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt) - some prompt about cyber security
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [Mips96/EzRO-gui](https://github.com/Mips96/EzRO-gui) - GUI-based rom organizer
 - [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 
