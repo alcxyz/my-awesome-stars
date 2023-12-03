@@ -223,6 +223,7 @@
 
 ## others 
 
+- [klesh/JigsawWM](https://github.com/klesh/JigsawWM) - JigsawWM is  a dynamic window manager for Windows10/11 just like the suckless dwm for the X
 - [DummyKitty/Cyber-Security-chatGPT-prompt](https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt) - some prompt about cyber security
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [Mips96/EzRO-gui](https://github.com/Mips96/EzRO-gui) - GUI-based rom organizer
