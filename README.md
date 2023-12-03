@@ -109,6 +109,7 @@
 
 ## Python 
 
+- [klesh/JigsawWM](https://github.com/klesh/JigsawWM) - JigsawWM is  a dynamic window manager for Windows10/11 just like the suckless dwm for the X
 - [Mips96/EzRO-gui](https://github.com/Mips96/EzRO-gui) - GUI-based rom organizer
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
