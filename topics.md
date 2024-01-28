@@ -223,10 +223,11 @@
 
 ## others 
 
+- [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [klesh/JigsawWM](https://github.com/klesh/JigsawWM) - JigsawWM is  a dynamic window manager for Windows10/11 just like the suckless dwm for the X
 - [DummyKitty/Cyber-Security-chatGPT-prompt](https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt) - some prompt about cyber security
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
-- [GrantG128/EzRO-gui](https://github.com/GrantG128/EzRO-gui) - GUI-based rom organizer
+- [Mode8fx/EzRO-gui](https://github.com/Mode8fx/EzRO-gui) - GUI-based rom organizer
 - [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
