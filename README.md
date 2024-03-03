@@ -17,6 +17,7 @@
 - [Jinja](#jinja)
 - [Lua](#lua)
 - [Mustache](#mustache)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -113,6 +114,10 @@
 
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
 
+## Nix 
+
+- [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
+
 ## Others 
 
 - [DummyKitty/Cyber-Security-chatGPT-prompt](https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt) - some prompt about cyber security
@@ -158,6 +163,7 @@
 
 ## Shell 
 
+- [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
