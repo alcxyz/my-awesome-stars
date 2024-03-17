@@ -118,6 +118,9 @@
 
 ## Nix 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [farcaller/nixhelm](https://github.com/farcaller/nixhelm) - This is a collection of helm charts in a nix-digestable format.
+- [farcaller/cake](https://github.com/farcaller/cake) - 
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
 
@@ -137,6 +140,7 @@
 
 ## Python 
 
+- [farcaller/nixdockertag](https://github.com/farcaller/nixdockertag) - A simple repository that tracks the docker image hashes for floating tags.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [klesh/JigsawWM](https://github.com/klesh/JigsawWM) - JigsawWM is  a dynamic window manager for Windows10/11 just like the suckless dwm for the X
@@ -200,6 +204,7 @@
 
 ## Vim Script 
 
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
 
