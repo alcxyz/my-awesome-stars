@@ -10,6 +10,7 @@
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Go](#go)
 - [HCL](#hcl)
 - [Java](#java)
@@ -20,6 +21,7 @@
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -47,6 +49,7 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
@@ -69,6 +72,10 @@
 ## Elixir 
 
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+
+## Elm 
+
+- [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
 
 ## Go 
 
@@ -151,6 +158,10 @@
 ## PHP 
 
 - [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Self Hosted Appointment Scheduler
+
+## Perl 
+
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 
 ## Python 
 
