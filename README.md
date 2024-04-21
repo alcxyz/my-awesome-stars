@@ -127,6 +127,8 @@
 
 ## Lua 
 
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
+- [fabridamicelli/cronex.nvim](https://github.com/fabridamicelli/cronex.nvim) - Human-readable inline cron expressions in Neovim
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced form localhost and remote machines
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
