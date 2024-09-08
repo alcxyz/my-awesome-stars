@@ -180,6 +180,7 @@
 
 ## Python 
 
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [klesh/JigsawWM](https://github.com/klesh/JigsawWM) - JigsawWM is  a dynamic window manager for Windows10/11 just like the suckless dwm for the X
