@@ -471,6 +471,7 @@
 
 ## others 
 
+- [vmware/govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
 - [dreamsofcode-io/tmux](https://github.com/dreamsofcode-io/tmux) - 
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
