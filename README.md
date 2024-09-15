@@ -84,6 +84,7 @@
 
 ## Go 
 
+- [vmware/govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 - [rancher/elemental](https://github.com/rancher/elemental) - Elemental is an immutable Linux distribution built to run Rancher and its corresponding Kubernetes distributions RKE2 and k3s. It is built using the Elemental-toolkit
