@@ -87,7 +87,7 @@
 - [vmware/govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-- [rancher/elemental](https://github.com/rancher/elemental) - Elemental is an immutable Linux distribution built to run Rancher and its corresponding Kubernetes distributions RKE2 and k3s. It is built using the Elemental-toolkit
+- [rancher/elemental](https://github.com/rancher/elemental) - Elemental is a software stack enabling centralized, full cloud-native OS management with Kubernetes.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [farcaller/nixdockertag](https://github.com/farcaller/nixdockertag) - A simple repository that tracks the docker image hashes for floating tags.
@@ -211,7 +211,7 @@
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
 - [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
-- [nate-sys/hypr-empty](https://github.com/nate-sys/hypr-empty) - 
+- [nthnd/hypr-empty](https://github.com/nthnd/hypr-empty) - 
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
