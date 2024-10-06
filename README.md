@@ -14,6 +14,7 @@
 - [Fluent](#fluent)
 - [Go](#go)
 - [HCL](#hcl)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -34,6 +35,8 @@
 
 ## C 
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
@@ -50,6 +53,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -114,6 +118,11 @@
 
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation
 - [terraform-google-modules/terraform-google-gcloud](https://github.com/terraform-google-modules/terraform-google-gcloud) - Executes Google Cloud CLI commands within Terraform
+
+## HTML 
+
+- [matopeto/kindle-weather-dashboard](https://github.com/matopeto/kindle-weather-dashboard) - 
+- [0111/Kindle_WeatherCN](https://github.com/0111/Kindle_WeatherCN) - Kindle WeatherCN，中文台历系统
 
 ## Java 
 
@@ -183,6 +192,7 @@
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
