@@ -514,6 +514,8 @@
 
 ## others 
 
+- [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake) - Nix Flake for the Zen Browser
+- [rdavison/graphite-layout](https://github.com/rdavison/graphite-layout) - Graphite keyboard layout
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [OneLiberty/moonlight-chrome-tizen](https://github.com/OneLiberty/moonlight-chrome-tizen) - A WASM port of Moonlight for Samsung Smart TV's running Tizen OS (5.5 and up)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
@@ -595,6 +597,7 @@
 
 ## package-manager 
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 
