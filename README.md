@@ -21,6 +21,7 @@
 - [Lua](#lua)
 - [Mustache](#mustache)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -125,7 +126,6 @@
 
 - [matopeto/kindle-weather-dashboard](https://github.com/matopeto/kindle-weather-dashboard) - 
 - [0111/Kindle_WeatherCN](https://github.com/0111/Kindle_WeatherCN) - Kindle WeatherCN，中文台历系统
-- [truecharts/public](https://github.com/truecharts/public) - Community Helm Chart Repository
 
 ## Java 
 
@@ -150,7 +150,6 @@
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [fabridamicelli/cronex.nvim](https://github.com/fabridamicelli/cronex.nvim) - Human-readable inline cron expressions in Neovim
-- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced form localhost and remote machines
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -162,6 +161,7 @@
 
 ## Nix 
 
+- [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake) - Nix Flake for the Zen Browser
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
@@ -173,8 +173,13 @@
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
 
+## Nushell 
+
+- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced form localhost and remote machines
+
 ## Others 
 
+- [rdavison/graphite-layout](https://github.com/rdavison/graphite-layout) - Graphite keyboard layout
 - [stefanprodan/gitops-istio](https://github.com/stefanprodan/gitops-istio) - A GitOps recipe for Progressive Delivery with Flux v2, Flagger and Istio
 - [dreamsofcode-io/tmux](https://github.com/dreamsofcode-io/tmux) - 
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
@@ -244,6 +249,7 @@
 
 ## Shell 
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [stefanprodan/gitops-linkerd](https://github.com/stefanprodan/gitops-linkerd) - Progressive Delivery workshop with Linkerd, Flagger and Flux
@@ -261,6 +267,7 @@
 
 ## Smarty 
 
+- [truecharts/public](https://github.com/truecharts/public) - Community Helm Chart Repository
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 
 ## TypeScript 
