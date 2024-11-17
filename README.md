@@ -36,6 +36,7 @@
 
 ## C 
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [nushell/tree-sitter-nu](https://github.com/nushell/tree-sitter-nu) - A tree-sitter grammar for nu-lang, the language of nushell
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [OneLiberty/moonlight-chrome-tizen](https://github.com/OneLiberty/moonlight-chrome-tizen) - A WASM port of Moonlight for Samsung Smart TV's running Tizen OS (5.5 and up)
@@ -94,6 +95,7 @@
 
 ## Go 
 
+- [tursodatabase/go-libsql](https://github.com/tursodatabase/go-libsql) - libSQL API for Go
 - [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative)
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra
@@ -139,6 +141,7 @@
 
 ## JavaScript 
 
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [fgl27/smarttv-twitch](https://github.com/fgl27/smarttv-twitch) - Twitch client for Samsung Smart TVs 2015 and newer models, in doubt read the README bellow
 - [FriendUPCloud/friendup](https://github.com/FriendUPCloud/friendup) - FriendOS is a free web based platform that runs in your browser.  It allows you to work and play, collaboratively, across devices.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -152,6 +155,10 @@
 
 ## Lua 
 
+- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
+- [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
+- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
@@ -288,6 +295,7 @@
 
 ## TypeScript 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [BluDood/GlanceThing](https://github.com/BluDood/GlanceThing) - Your CarThing as a glanceable action pad!
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [balena-io-experimental/balena-sound](https://github.com/balena-io-experimental/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
@@ -301,7 +309,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 
