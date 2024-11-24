@@ -98,6 +98,7 @@
 - [software](#software)
 - [sqlite](#sqlite)
 - [storybook](#storybook)
+- [support](#support)
 - [svelte](#svelte)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -323,6 +324,7 @@
 
 ## go 
 
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [tursodatabase/go-libsql](https://github.com/tursodatabase/go-libsql) - libSQL API for Go
 - [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative)
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
@@ -337,6 +339,7 @@
 
 ## golang 
 
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative)
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -664,6 +667,7 @@
 
 ## project-management 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## pwa 
@@ -672,6 +676,7 @@
 
 ## python 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -762,6 +767,10 @@
 ## storybook 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+## support 
+
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 
 ## svelte 
 
