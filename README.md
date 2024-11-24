@@ -19,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Mustache](#mustache)
 - [Nix](#nix)
 - [Nushell](#nushell)
@@ -172,6 +173,10 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 
+## Makefile 
+
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+
 ## Mustache 
 
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
@@ -222,6 +227,7 @@
 
 ## Python 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
