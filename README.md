@@ -38,6 +38,7 @@
 
 ## C 
 
+- [kaievns/halmak](https://github.com/kaievns/halmak) - The final version of the AI designed keyboard layout
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [nushell/tree-sitter-nu](https://github.com/nushell/tree-sitter-nu) - A tree-sitter grammar for nu-lang, the language of nushell
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
@@ -134,12 +135,14 @@
 
 ## HTML 
 
+- [sunaku/glove80-keymaps](https://github.com/sunaku/glove80-keymaps) - "Glorious Engrammer" keymap for Glove80 keyboard
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [matopeto/kindle-weather-dashboard](https://github.com/matopeto/kindle-weather-dashboard) - 
 - [0111/Kindle_WeatherCN](https://github.com/0111/Kindle_WeatherCN) - Kindle WeatherCN，中文台历系统
 
 ## Java 
 
+- [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 
 ## JavaScript 
@@ -171,7 +174,7 @@
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [fabridamicelli/cronex.nvim](https://github.com/fabridamicelli/cronex.nvim) - Human-readable inline cron expressions in Neovim
-- [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
+- [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
