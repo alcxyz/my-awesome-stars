@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [apenella/go-ansible](https://github.com/apenella/go-ansible) - Go-ansible is a Go package that enables the execution of ansible-playbook or ansible commands directly from Golang applications. It supports a wide range of options for each command, enabling smooth i
@@ -151,6 +152,7 @@
 
 ## JavaScript 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [fgl27/smarttv-twitch](https://github.com/fgl27/smarttv-twitch) - Twitch client for Samsung Smart TVs 2015 and newer models, in doubt, read the README below
@@ -225,6 +227,7 @@
 
 ## PHP 
 
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Self Hosted Appointment Scheduler
@@ -235,6 +238,7 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [frappe/frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -284,6 +288,7 @@
 
 ## Shell 
 
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay 2, and Spotify Connect
@@ -315,6 +320,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [BluDood/GlanceThing](https://github.com/BluDood/GlanceThing) - Your CarThing as a glanceable action pad!
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
