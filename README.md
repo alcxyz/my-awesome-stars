@@ -23,6 +23,7 @@
 - [Makefile](#makefile)
 - [Mustache](#mustache)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -186,7 +187,6 @@
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [fabridamicelli/cronex.nvim](https://github.com/fabridamicelli/cronex.nvim) - A Neovim Plugin to render inline human-readable cron expressions
-- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -214,6 +214,10 @@
 - [farcaller/cake](https://github.com/farcaller/cake) - 
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
+
+## Nushell 
+
+- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 
 ## Others 
 
