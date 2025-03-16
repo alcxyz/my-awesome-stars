@@ -50,7 +50,6 @@
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
-- [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
@@ -142,6 +141,7 @@
 
 ## HCL 
 
+- [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation
 - [terraform-google-modules/terraform-google-gcloud](https://github.com/terraform-google-modules/terraform-google-gcloud) - Executes Google Cloud CLI commands within Terraform
 
@@ -207,7 +207,7 @@
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
-- [jakehamilton/config](https://github.com/jakehamilton/config) - One Nix flake to rule them all.
+- [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
 - [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [farcaller/nixhelm](https://github.com/farcaller/nixhelm) - This is a collection of helm charts in a nix-digestable format.
@@ -258,6 +258,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [klesh/JigsawWM](https://github.com/klesh/JigsawWM) - JigsawWM is  a dynamic window manager for Windows10/11 just like the suckless dwm for the X
 - [Mode8fx/EzRO-gui](https://github.com/Mode8fx/EzRO-gui) - GUI-based rom organizer
+- [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
@@ -332,6 +333,7 @@
 
 ## TypeScript 
 
+- [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) - A Bar/Panel for Hyprland with extensive customizability.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [BluDood/GlanceThing](https://github.com/BluDood/GlanceThing) - Your CarThing as a glanceable action pad!
