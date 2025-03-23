@@ -159,6 +159,7 @@
 
 ## JavaScript 
 
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -210,7 +211,7 @@
 - [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
 - [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [farcaller/nixhelm](https://github.com/farcaller/nixhelm) - This is a collection of helm charts in a nix-digestable format.
+- [nix-community/nixhelm](https://github.com/nix-community/nixhelm) - This is a collection of helm charts in a nix-digestable format.
 - [farcaller/cake](https://github.com/farcaller/cake) - 
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
