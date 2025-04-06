@@ -213,6 +213,8 @@
 
 ## Nix 
 
+- [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake) - Nix Flake for the Zen Browser
@@ -290,6 +292,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Yethal/nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl) - A Hashicorp Configuration Language plugin for nushell
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
