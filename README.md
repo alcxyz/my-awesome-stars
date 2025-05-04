@@ -66,6 +66,7 @@
 
 ## C++ 
 
+- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
@@ -103,6 +104,8 @@
 
 ## Go 
 
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -152,6 +155,7 @@
 
 ## HTML 
 
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [sunaku/glove80-keymaps](https://github.com/sunaku/glove80-keymaps) - "Glorious Engrammer" keymap for Glove80 keyboard
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [matopeto/kindle-weather-dashboard](https://github.com/matopeto/kindle-weather-dashboard) - 
@@ -168,6 +172,7 @@
 
 ## JavaScript 
 
+- [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
@@ -185,6 +190,7 @@
 
 ## Lua 
 
+- [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
@@ -231,6 +237,7 @@
 
 ## Nushell 
 
+- [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
 
 ## Others 
@@ -292,6 +299,9 @@
 
 ## Rust 
 
+- [FMotalleb/nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Yethal/nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl) - A Hashicorp Configuration Language plugin for nushell
@@ -349,6 +359,7 @@
 
 ## TypeScript 
 
+- [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions) - 
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
