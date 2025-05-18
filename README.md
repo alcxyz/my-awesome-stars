@@ -24,6 +24,7 @@
 - [Makefile](#makefile)
 - [Mustache](#mustache)
 - [Nix](#nix)
+- [Nu](#nu)
 - [Nushell](#nushell)
 - [Others](#others)
 - [PHP](#php)
@@ -169,6 +170,7 @@
 
 ## Java 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 
@@ -235,6 +237,10 @@
 - [farcaller/cake](https://github.com/farcaller/cake) - 
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
+
+## Nu 
+
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 
 ## Nushell 
 
@@ -344,7 +350,6 @@
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [windelicato/dotfiles](https://github.com/windelicato/dotfiles) - arch linux configuration files
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
@@ -361,6 +366,7 @@
 
 ## TypeScript 
 
+- [t3dotgg/unduck](https://github.com/t3dotgg/unduck) - A fast, local-first "search engine" for !bang users
 - [Erlendms/karabiner-actions](https://github.com/Erlendms/karabiner-actions) - 
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
