@@ -67,6 +67,8 @@
 
 ## C++ 
 
+- [agruzdev/FreeImageRe](https://github.com/agruzdev/FreeImageRe) - FreeImage Re(surrected) - fork of the FreeImage library to maintain and extend
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -106,6 +108,10 @@
 
 ## Go 
 
+- [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
+- [Melkeydev/govm](https://github.com/Melkeydev/govm) - govm – a lightweight and flexible Go installer + version manager
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -228,7 +234,7 @@
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
-- [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - nix modules for darwin
+- [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
 - [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
 - [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
@@ -265,6 +271,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -335,8 +342,9 @@
 
 ## Shell 
 
+- [zolrath/wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay 2, and Spotify Connect
