@@ -229,6 +229,7 @@
 
 ## Nix 
 
+- [youwen5/zen-browser-flake](https://github.com/youwen5/zen-browser-flake) - Nix Flake for the Zen Browser, with automatic updates
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
@@ -255,6 +256,7 @@
 
 ## Others 
 
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [rdavison/graphite-layout](https://github.com/rdavison/graphite-layout) - Graphite keyboard layout
 - [stefanprodan/gitops-istio](https://github.com/stefanprodan/gitops-istio) - A GitOps recipe for Progressive Delivery with Flux v2, Flagger and Istio
 - [dreamsofcode-io/tmux](https://github.com/dreamsofcode-io/tmux) - 
@@ -283,6 +285,7 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [frappe/frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
@@ -314,6 +317,9 @@
 
 ## Rust 
 
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [FMotalleb/nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -343,6 +349,7 @@
 
 ## Shell 
 
+- [meekys/plugin.program.steamlink](https://github.com/meekys/plugin.program.steamlink) - Steamlink launcher for Kodi
 - [zolrath/wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
