@@ -382,7 +382,7 @@
 
 ## Smarty 
 
-- [truecharts/public](https://github.com/truecharts/public) - Community Helm Chart Repository
+- [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 
 ## TeX 
