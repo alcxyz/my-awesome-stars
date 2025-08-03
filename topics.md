@@ -34,10 +34,12 @@
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [database](#database)
 - [deployment](#deployment)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [django](#django)
@@ -143,6 +145,7 @@
 - [web-components](#web-components)
 - [webpack](#webpack)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -314,6 +317,10 @@
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 
+## data-engineering 
+
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
+
 ## data-science 
 
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
@@ -333,6 +340,11 @@
 ## design 
 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+## developer-tools 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [terraform-google-modules/terraform-google-gcloud](https://github.com/terraform-google-modules/terraform-google-gcloud) - Executes Google Cloud CLI commands within Terraform
 
 ## development 
 
@@ -859,7 +871,6 @@
 - [skupperproject/skupper](https://github.com/skupperproject/skupper) - Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.
 - [hashicorp/vagrant-vmware-desktop](https://github.com/hashicorp/vagrant-vmware-desktop) - Official provider for VMware desktop products: Fusion, Player, and Workstation.
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation
-- [terraform-google-modules/terraform-google-gcloud](https://github.com/terraform-google-modules/terraform-google-gcloud) - Executes Google Cloud CLI commands within Terraform
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
@@ -1173,6 +1184,16 @@
 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+
+## zsh 
+
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 
 
 ## License
