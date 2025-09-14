@@ -182,7 +182,7 @@
 ## Java 
 
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 
@@ -332,6 +332,9 @@
 
 ## Rust 
 
+- [mierak/rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
