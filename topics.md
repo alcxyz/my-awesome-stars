@@ -100,6 +100,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -836,6 +837,12 @@
 
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 
+## mcp 
+
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## microservices 
 
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -947,11 +954,10 @@
 - [rochacbruno/WorldClock](https://github.com/rochacbruno/WorldClock) - DankMaterialShell WorldClock Plugin
 - [levnikmyskin/hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) - A plugin for the Hyprland compositor, implementing virtual-desktop functionality.
 - [Schweber/ndrop](https://github.com/Schweber/ndrop) - Emulate 'tdrop' in niri (run, show and hide programs via keybind - similar to a dropdown terminal)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [LibreBooking/app](https://github.com/LibreBooking/app) - LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch c
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [EmergentMind/nix-secrets-reference](https://github.com/EmergentMind/nix-secrets-reference) - A stripped-down reference version of EmergentMind's private Nix-Secrets repo.
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
