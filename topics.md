@@ -444,7 +444,6 @@
 - [rancher/elemental](https://github.com/rancher/elemental) - Elemental is a software stack enabling centralized, full cloud-native OS management with Kubernetes.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [farcaller/nixdockertag](https://github.com/farcaller/nixdockertag) - A simple repository that tracks the docker image hashes for floating tags.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sprintcube/docker-compose-lamp](https://github.com/sprintcube/docker-compose-lamp) - A basic LAMP stack environment built using Docker Compose.
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -457,7 +456,7 @@
 
 ## dotfiles 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -571,7 +570,6 @@
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 ## golang 
 
@@ -590,7 +588,6 @@
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 
 ## graphql 
@@ -633,7 +630,6 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
@@ -724,7 +720,6 @@
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
 - [timothystewart6/k3s-ansible](https://github.com/timothystewart6/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.
@@ -758,7 +753,7 @@
 
 ## linux 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [AvengeMedia/danksearch](https://github.com/AvengeMedia/danksearch) - Indexed filesystem search in GO
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -843,7 +838,7 @@
 
 ## material-design 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 
 ## mcp 
 
@@ -1231,7 +1226,6 @@
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
 
@@ -1241,7 +1235,6 @@
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 ## self-hosted 
 
