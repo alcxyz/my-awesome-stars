@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
@@ -178,6 +179,10 @@
 - [windows](#windows)
 - [zsh](#zsh)
 
+## agent 
+
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+
 ## ai 
 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -190,6 +195,7 @@
 
 ## ai-agents 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ## analytics 
@@ -268,7 +274,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
@@ -617,8 +623,7 @@
 
 ## gui 
 
-- [vinodkr494/telegram-media-downloader](https://github.com/vinodkr494/telegram-media-downloader) - A modern Python GUI tool for downloading videos, images, PDFs, ZIPs, and more from Telegram channels and groups. Features resumable downloads, batch processing, private channel support, and a persiste
-- [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
+- [vinodkr494/telegram-media-downloader](https://github.com/vinodkr494/telegram-media-downloader) - 🚀 Bulk-download videos, images, PDFs, audio & more from any Telegram channel or group. Modern GUI (CustomTkinter), category browser, real-time search, parallel downloads, smart deduplication, speed li
 
 ## hacktoberfest 
 
@@ -775,6 +780,7 @@
 
 ## linux 
 
+- [sashetophizika/hyprscratch](https://github.com/sashetophizika/hyprscratch) - Improved scratchpad functionality for Hyprland
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [AvengeMedia/danksearch](https://github.com/AvengeMedia/danksearch) - Indexed filesystem search in GO
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
@@ -800,6 +806,8 @@
 
 ## llm 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## login 
@@ -980,6 +988,8 @@
 
 ## others 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [BrycensRanch/gpu-screen-recorder-git-copr](https://github.com/BrycensRanch/gpu-screen-recorder-git-copr) - its ur favorite copr's git repo
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1169,7 +1179,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [vinodkr494/telegram-media-downloader](https://github.com/vinodkr494/telegram-media-downloader) - A modern Python GUI tool for downloading videos, images, PDFs, ZIPs, and more from Telegram channels and groups. Features resumable downloads, batch processing, private channel support, and a persiste
+- [vinodkr494/telegram-media-downloader](https://github.com/vinodkr494/telegram-media-downloader) - 🚀 Bulk-download videos, images, PDFs, audio & more from any Telegram channel or group. Modern GUI (CustomTkinter), category browser, real-time search, parallel downloads, smart deduplication, speed li
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -1184,6 +1194,7 @@
 
 ## rag 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## raspberry-pi 
@@ -1224,6 +1235,7 @@
 
 ## rust 
 
+- [sashetophizika/hyprscratch](https://github.com/sashetophizika/hyprscratch) - Improved scratchpad functionality for Hyprland
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -1236,7 +1248,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -1291,7 +1303,7 @@
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
@@ -1345,12 +1357,12 @@
 
 ## telegram 
 
-- [vinodkr494/telegram-media-downloader](https://github.com/vinodkr494/telegram-media-downloader) - A modern Python GUI tool for downloading videos, images, PDFs, ZIPs, and more from Telegram channels and groups. Features resumable downloads, batch processing, private channel support, and a persiste
+- [vinodkr494/telegram-media-downloader](https://github.com/vinodkr494/telegram-media-downloader) - 🚀 Bulk-download videos, images, PDFs, audio & more from any Telegram channel or group. Modern GUI (CustomTkinter), category browser, real-time search, parallel downloads, smart deduplication, speed li
 - [JMax45/telegram-bulk-downloader](https://github.com/JMax45/telegram-bulk-downloader) - Command-line tool built with Node.js that allows you to download media files from a Telegram chat
 
 ## telegram-bot 
 
-- [vinodkr494/telegram-media-downloader](https://github.com/vinodkr494/telegram-media-downloader) - A modern Python GUI tool for downloading videos, images, PDFs, ZIPs, and more from Telegram channels and groups. Features resumable downloads, batch processing, private channel support, and a persiste
+- [vinodkr494/telegram-media-downloader](https://github.com/vinodkr494/telegram-media-downloader) - 🚀 Bulk-download videos, images, PDFs, audio & more from any Telegram channel or group. Modern GUI (CustomTkinter), category browser, real-time search, parallel downloads, smart deduplication, speed li
 
 ## tensorflow 
 
@@ -1470,7 +1482,7 @@
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
