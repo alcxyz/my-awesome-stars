@@ -362,6 +362,9 @@
 
 ## QML 
 
+- [AvengeMedia/dms-plugins](https://github.com/AvengeMedia/dms-plugins) - First party plugins for DankMaterialShell
+- [motor-dev/wallpaperCarousel](https://github.com/motor-dev/wallpaperCarousel) - 
+- [Murilo-Gotardo/dms-image-converter](https://github.com/Murilo-Gotardo/dms-image-converter) - 
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [rochacbruno/DankCalculator](https://github.com/rochacbruno/DankCalculator) - Calculator for DMS launcher
 - [rochacbruno/WorldClock](https://github.com/rochacbruno/WorldClock) - DankMaterialShell WorldClock Plugin
